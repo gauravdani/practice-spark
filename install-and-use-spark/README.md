@@ -8,6 +8,7 @@ A brief description of your project.
 2. [Usage](#usage)
 3. [Contributing](#contributing)
 4. [License](#license)
+5. [How tot install pyspark](#license)
 
 ## Installation
 
@@ -40,6 +41,8 @@ A brief description of your project.
     ```
 
     Make sure you have a `requirements.txt` file in your project directory that lists all necessary dependencies.
+
+4. **How to install Pyspark**
 
 ## Usage
 Instructions on how to use your project.
